@@ -1,0 +1,6 @@
+# Source files retained locally; the website uses curated public copies.
+/TorresJorgeCV.pdf
+/fotocv.jpeg
+
+# Local QA and rendering artifacts.
+/.tmp/
